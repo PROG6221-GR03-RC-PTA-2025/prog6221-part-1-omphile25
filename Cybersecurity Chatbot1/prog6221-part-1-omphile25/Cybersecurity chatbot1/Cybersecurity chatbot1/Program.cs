@@ -11,11 +11,14 @@ namespace Cybersecurity_chatbot1
         static void Main(string[] args)
         {
             Console.Title = "Cybersecurity Awareness Bot";
-
+            // Display ASCII art
+            Asciiart.Display();
             // Play voice greeting
             VoiceGreetingHandler.PlayVoiceGreeting();
 
-            
+            // Start chatbot interaction
+            var chatbot = new Chatbot();
+            chatbot.StartChat();
 
         }
     }

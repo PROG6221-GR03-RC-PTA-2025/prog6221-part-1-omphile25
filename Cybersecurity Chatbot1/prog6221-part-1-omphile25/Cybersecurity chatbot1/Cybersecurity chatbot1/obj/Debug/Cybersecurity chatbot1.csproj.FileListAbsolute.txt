@@ -1,0 +1,7 @@
+C:\Users\Incredible\OneDrive - ADvTECH Ltd\Documents\Cybersecurity Chatbot1\prog6221-part-1-omphile25\Cybersecurity chatbot1\Cybersecurity chatbot1\obj\Debug\Cybersecurity chatbot1.csproj.AssemblyReference.cache
+C:\Users\Incredible\OneDrive - ADvTECH Ltd\Documents\Cybersecurity Chatbot1\prog6221-part-1-omphile25\Cybersecurity chatbot1\Cybersecurity chatbot1\obj\Debug\Cybersecurity chatbot1.csproj.CoreCompileInputs.cache
+C:\Users\Incredible\OneDrive - ADvTECH Ltd\Documents\Cybersecurity Chatbot1\prog6221-part-1-omphile25\Cybersecurity chatbot1\Cybersecurity chatbot1\bin\Debug\Cybersecurity chatbot1.exe.config
+C:\Users\Incredible\OneDrive - ADvTECH Ltd\Documents\Cybersecurity Chatbot1\prog6221-part-1-omphile25\Cybersecurity chatbot1\Cybersecurity chatbot1\bin\Debug\Cybersecurity chatbot1.exe
+C:\Users\Incredible\OneDrive - ADvTECH Ltd\Documents\Cybersecurity Chatbot1\prog6221-part-1-omphile25\Cybersecurity chatbot1\Cybersecurity chatbot1\bin\Debug\Cybersecurity chatbot1.pdb
+C:\Users\Incredible\OneDrive - ADvTECH Ltd\Documents\Cybersecurity Chatbot1\prog6221-part-1-omphile25\Cybersecurity chatbot1\Cybersecurity chatbot1\obj\Debug\Cybersecurity chatbot1.exe
+C:\Users\Incredible\OneDrive - ADvTECH Ltd\Documents\Cybersecurity Chatbot1\prog6221-part-1-omphile25\Cybersecurity chatbot1\Cybersecurity chatbot1\obj\Debug\Cybersecurity chatbot1.pdb

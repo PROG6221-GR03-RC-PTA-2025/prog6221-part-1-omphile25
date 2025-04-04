@@ -24,10 +24,10 @@ namespace Cybersecurity_chatbot1
             catch (Exception e)
             {
                 Console.WriteLine("⚠️ Voice greeting could not be played: " + e.Message);
+
             }
         }
     }
 }
-
 
    
